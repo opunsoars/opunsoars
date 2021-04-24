@@ -12,5 +12,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 3909444
 -->
+I am **Vinay** [33], a data science practitioner living in the  <img src="https://image.flaticon.com/icons/svg/197/197441.svg" width="13"/> **Nijmegen, Netherlands**. Originally from <img src="https://image.flaticon.com/icons/svg/3909/3909444.svg" width="13"/> India, I have moved around a lot in my growing years and spent the last decade in <img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore. I have worked across multiple domains and picked up various skills that can't be grouped under a single role like a data scientist or data engineer or ML engineer. So I think of myself as the data guy who can work across various stages of AI applications, from research to deployment. Trying to streamline myself a bit more now to pursue projects where my skillset (NLP/ML/DL) or passion (football analytics) find utility. **Welcome to my renewed github profile**!  
+
+🔭 I’m currently working remotely on a voice assistant for cancer genomics for the [Cancer Science Institute (NUS Singapore)](https://www.csi.nus.edu.sg/web/)  
+👯 I’m looking to collaborate on ⚽📈football analytics related projects. Check my latest package out for plotting tracking/event data - [_pitchly_](https://github.com/opunsoars/pitchly)!  
+📫 How to reach me: [✉️](mailto:vinay.warrier@gmail.com)  
+😄 Pronouns: He/Him  
+⚡ Fun fact: Love puns (and word games and crosswords). _o.pun.soars_ is a pun on `open source` (in case you were wondering)  
+
+
+[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=opunsoars&count_private=true)](https://github.com/opunsoars/github-readme-stats)  
+<a href="https://www.twitter.com/opunsoars"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/opunsoars"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:vinay.warrier@gmail.com"><img src="https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white" height=25></a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=opunsoars.opunsoars)
+
+<br />
