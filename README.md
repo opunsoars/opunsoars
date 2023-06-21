@@ -18,17 +18,22 @@ I am **Vinay** [35], a data science practitioner living in the  <img src="https:
 
 🔭 I’m currently working as a ML Developer in the domain of SEO, for [similar.ai](https://similar.ai/)  
 👯 I’m also interested in collaborating on ⚽📈football analytics related projects. Check my latest package out for plotting tracking/event data - [_pitchly_](https://github.com/opunsoars/pitchly)! [![Downloads](https://static.pepy.tech/personalized-badge/pitchly?period=total&units=international_system&left_color=black&right_color=orange&left_text=Total%20Downloads)](https://pepy.tech/project/pitchly) [![Downloads](https://img.shields.io/badge/dynamic/json.svg?label=LastMonth&url=https%3A%2F%2Fpypistats.org%2Fapi%2Fpackages%2Fpitchly%2Frecent&query=data.last_month&colorB=brightgreen)](https://pypistats.org/packages/pitchly)  
-📫 How to reach me: [✉️](mailto:vinay.warrier@gmail.com)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: Love puns (and word games and crosswords). _o.pun.soars_ is a pun on `open source` (in case you were wondering)  
 
+<a href="https://www.twitter.com/opunsoars"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/opunsoars"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:vinay.warrier@gmail.com"><img src="https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white" height=25></a>
+
+### I have used these to varying capacities
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,django,docker,gcp,git,github,gitlab,js,linux,mysql,postman,py,r,regex,tensorflow,vscode)](https://skillicons.dev)
+
+### Github stats
 
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=opunsoars&count_private=true&show_icons=true&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=opunsoars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<a href="https://www.twitter.com/opunsoars"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/opunsoars"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:vinay.warrier@gmail.com"><img src="https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white" height=25></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=opunsoars&theme=dark)](https://git.io/streak-stats)
 
 Visitor Count:
 
