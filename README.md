@@ -31,6 +31,8 @@ I am **Vinay** [35], a data science practitioner living in the  <img src="https:
 
 <a href="https://www.twitter.com/opunsoars"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/opunsoars"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:vinay.warrier@gmail.com"><img src="https://img.shields.io/badge/email-%239D8189.svg?&style=for-the-badge&logo=mail&logoColor=white" height=25></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=opunsoars.opunsoars)
+Visitor Count:
+
+![Visitor Count](https://profile-counter.glitch.me/opunsoars/count.svg)
 
 <br />
