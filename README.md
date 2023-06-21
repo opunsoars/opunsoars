@@ -23,8 +23,7 @@ I am **Vinay** [35], a data science practitioner living in the  <img src="https:
 ⚡ Fun fact: Love puns (and word games and crosswords). _o.pun.soars_ is a pun on `open source` (in case you were wondering)  
 
 
-[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=opunsoars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/opunsoars/github-readme-stats)  
-
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=opunsoars&count_private=true&show_icons=true&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=opunsoars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
