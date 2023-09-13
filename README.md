@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 3909444
 -->
-I am **Vinay** [35], a data science practitioner living in the  <img src="https://cdn-icons-png.flaticon.com/512/206/206615.png" width="13"/> **Nijmegen, Netherlands**. Originally from <img src="https://cdn-icons-png.flaticon.com/512/206/206606.png" width="13"/> India, I have moved around a lot in my growing years and spent the last decade in <img src="https://cdn-icons-png.flaticon.com/512/555/555538.png" width="13"/> Singapore. I have worked across multiple domains and picked up various skills that can't be grouped under a single role like a data scientist or data engineer or ML engineer. So I think of myself as the data guy who can work across various stages of AI applications, from research to deployment. Trying to streamline myself a bit more now to pursue projects where my skillset (NLP/ML/DL) or passion (football analytics) find utility. **Welcome to my github profile**!  
+I am **Vinay** [36], a data science practitioner living in  <img src="https://cdn-icons-png.flaticon.com/512/206/206615.png" width="13"/> **Nijmegen, Netherlands**. Originally from <img src="https://cdn-icons-png.flaticon.com/512/206/206606.png" width="13"/> India, I have moved around a lot in my growing years and spent the last decade in <img src="https://cdn-icons-png.flaticon.com/512/555/555538.png" width="13"/> Singapore. I have worked across multiple domains and picked up various skills that can't be grouped under a single role like a data scientist or data engineer or ML engineer. So I think of myself as the data guy who can work across various stages of AI applications, from research to deployment. Trying to streamline myself a bit more now to pursue projects where my skillset (NLP/ML/DL) or passion (football analytics) find utility. **Welcome to my github profile**!  
 
 🔭 I’m currently working as a ML Developer in the domain of SEO, for [similar.ai](https://similar.ai/)  
 👯 I’m also interested in collaborating on ⚽📈football analytics related projects. Check my latest package out for plotting tracking/event data - [_pitchly_](https://github.com/opunsoars/pitchly)! [![Downloads](https://static.pepy.tech/personalized-badge/pitchly?period=total&units=international_system&left_color=black&right_color=orange&left_text=Total%20Downloads)](https://pepy.tech/project/pitchly) [![Downloads](https://img.shields.io/badge/dynamic/json.svg?label=LastMonth&url=https%3A%2F%2Fpypistats.org%2Fapi%2Fpackages%2Fpitchly%2Frecent&query=data.last_month&colorB=brightgreen)](https://pypistats.org/packages/pitchly)  
@@ -28,12 +28,12 @@ I am **Vinay** [35], a data science practitioner living in the  <img src="https:
 
 ### Github stats
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=opunsoars&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=opunsoars&count_private=true&show_icons=true&theme=tokyonight) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=opunsoars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=opunsoars&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=opunsoars&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=opunsoars&theme=dark)](https://git.io/streak-stats) -->
 
 Visitor Count:
 
